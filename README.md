@@ -2,6 +2,13 @@
 
 live link:'https://github.com/Naima-Yesmin/make-up-artist'
 
+'''''Why I Create This Project??'''''''
+
+1. Here I used some frame work like Bootstrap , React
+2. We can know about some Makeup Artist
+3. And We know some of their personal information
+
+
 
 
 
