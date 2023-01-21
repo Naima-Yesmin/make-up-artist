@@ -1,0 +1,31 @@
+.card {
+    margin: 15px;
+
+}
+
+.card-body {
+    background-color: bisque;
+
+}
+
+.card img {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+
+.btn-regular {
+    background-color: purple;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    font-size: large;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}

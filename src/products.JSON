@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Bobbi Brown",
+        "key": "1a",
+        "nationality": "American",
+        "gender": "Female",
+        "age": 65,
+        "income": 45500,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/bobbi-brown.jpg.webp"
+    },
+    {
+        "name": "Billy B",
+        "key": "3b",
+        "nationality": "New York",
+        "gender": "Male",
+        "age": 59,
+        "income": 40000,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/billy-b.jpg.webp"
+    },
+    {
+        "name": "Pat McGrath",
+        "key": "4c",
+        "nationality": "British",
+        "gender": "Female",
+        "age": 57,
+        "income": 70124,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/pat-mcgrath.jpg.webp"
+    },
+    {
+        "name": "Charlie Green",
+        "key": "5d",
+        "nationality": "England",
+        "gender": "Female",
+        "age": 27,
+        "income": 50123,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/charlie-green.jpg.webp"
+    },
+    {
+        "name": "Rick Baker",
+        "key": "6e",
+        "nationality": "American",
+        "gender": "Male",
+        "age": 72,
+        "income": 40056,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/rick-baker1.jpg.webp"
+    },
+    {
+        "name": "Sam Fine",
+        "key": "7f",
+        "nationality": "Chicago",
+        "gender": "Male",
+        "age": 53,
+        "income": 35000,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/sam-fine.jpg.webp"
+    },
+    {
+        "name": "Michele Burke",
+        "key": "8g",
+        "nationality": "American",
+        "gender": "Female",
+        "age": 64,
+        "income": 19056,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/michele-burke.jpg.webp"
+    },
+    {
+        "name": "Stan Winston",
+        "key": "9h",
+        "nationality": "American",
+        "gender": "Male",
+        "age": 62,
+        "income": 60055,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/stan-winston1.jpg.webp"
+    },
+    {
+        "name": "Laura Mercier",
+        "key": "11i",
+        "nationality": "French",
+        "gender": "Female",
+        "age": 63,
+        "income": 46572,
+        "img": "https://cdn2.stylecraze.com/wp-content/uploads/2014/02/laura-mercier.jpg.webp"
+    }
+]
