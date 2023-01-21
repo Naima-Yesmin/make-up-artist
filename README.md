@@ -1,6 +1,6 @@
 ...............Beauty Village.........
 
-live link:'https://github.com/Naima-Yesmin/make-up-artist'
+live link:'https://warm-lebkuchen-f9b774.netlify.app'
 
 '''''Why I Create This Project??'''''''
 
